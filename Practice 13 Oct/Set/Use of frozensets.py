@@ -1,0 +1,4 @@
+#Use of frozensets
+
+s=frozenset([1,2,3,4,5,6])
+print(s)
